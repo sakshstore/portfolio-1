@@ -1,0 +1,20 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "laptop-code",
+			"title" : "Web Development",
+			"description" : "Helping your business get a web presence."
+		},
+		{
+			"icon" : "mobile-alt",
+			"title" : "App Development",
+			"description" : "Getting your business mobile solution."
+		},
+		{
+			"icon" : "chalkboard-teacher",
+			"title" : "Consultation",
+			"description" : "Figuring out solutions for your business problems."
+		}
+	]
+}

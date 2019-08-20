@@ -1,0 +1,13 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Rails": "90",
+		"React" : "80",
+		"React Native" : "80",
+		"Kubernetes" : "60",
+		"Docker" : "97",
+		"Golang": "20",
+		"Angular": "70",
+		"Node": "90"
+	}
+}
