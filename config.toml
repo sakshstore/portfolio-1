@@ -1,0 +1,5 @@
+baseURL = "https://zaracooper.github.io"
+languageCode = "en-us"
+title = "Zara Cooper"
+author = "Zara Cooper"
+theme = "hugo-uilite"
