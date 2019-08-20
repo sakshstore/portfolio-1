@@ -1,0 +1,33 @@
+{
+	"title" : "Projects",
+	"projects" : [
+		{
+			"icon" : "shopping-basket",
+			"title" : "Corner Shop Loyalty Program App",
+			"language": "React Native",
+			"platform": "mobile-alt",
+			"description" : "An app that tracks customer shopping trends and shopping reward points at a local corner shop."
+		},
+		{
+			"icon" : "gamepad",
+			"title" : "Tetris Mobile App",
+			"language": "React Native",
+			"platform": "mobile-alt",
+			"description" : "An app version of the popular Tetris game."
+		},
+		{
+			"icon" : "hourglass-half",
+			"title" : "Pomodoro Time Tracker",
+			"language": "Golang",
+			"platform": "terminal",
+			"description" : "Time tracking terminal tool for developers."
+		},
+		{
+			"icon" : "church",
+			"title" : "Church Library Book Lending Site",
+			"language": "Rails",
+			"platform": "laptop",
+			"description" : "Time tracking terminal tool for developers."
+		}
+	]
+}

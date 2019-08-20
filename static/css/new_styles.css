@@ -40,12 +40,16 @@ html, body {
 }
 
 #experience {
-    background: #74AF3A;
+    background: #4A8714;
 }
 
 #experience a {
     color: darkslategrey;
     font-weight: bold;
+}
+
+section.projects {
+    background: #74AF3A;
 }
 
 section.blue {
@@ -54,4 +58,9 @@ section.blue {
 
 #contact {
     background: #6449D9 !important;
+}
+
+.language {
+    font-weight: bolder !important;
+    color: gray !important;
 }
