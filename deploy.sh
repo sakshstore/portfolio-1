@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm -rf public
+
 # If a command fails then the deploy stops
 set -e
 
@@ -23,5 +25,3 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-
-rm -rf public
