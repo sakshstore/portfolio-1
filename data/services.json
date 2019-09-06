@@ -4,17 +4,17 @@
 		{
 			"icon" : "laptop-code",
 			"title" : "Web Development",
-			"description" : "Helping your business get a web presence."
+			"description" : "I'll help your business get a web presence or an online business solution."
 		},
 		{
 			"icon" : "mobile-alt",
 			"title" : "App Development",
-			"description" : "Getting your business mobile solution."
+			"description" : "I'll help get your business solution on a mobile platform."
 		},
 		{
 			"icon" : "chalkboard-teacher",
 			"title" : "Consultation",
-			"description" : "Figuring out solutions for your business problems."
+			"description" : "Assisting your business figure out technology solutions for your technical problems."
 		}
 	]
 }
