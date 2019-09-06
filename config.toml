@@ -4,3 +4,5 @@ title = "Zara Cooper"
 author = "Zara Cooper"
 theme = "hugo-uilite"
 googleAnalytics = "UA-146100096-1"
+[params]
+    enableProjects = false
