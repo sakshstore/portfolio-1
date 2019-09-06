@@ -10,10 +10,10 @@
 		},
 		{
 			"icon" : "gamepad",
-			"title" : "Tetris Mobile App",
+			"title" : "Tetris Game Mobile App",
 			"language": "React Native",
 			"platform": "mobile-alt",
-			"description" : "An app version of the popular Tetris game."
+			"description" : "An app version of the popular Tetris game on Android and iOS."
 		},
 		{
 			"icon" : "hourglass-half",
