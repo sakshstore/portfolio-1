@@ -1,7 +1,5 @@
 #!/bin/sh
 
-rm -rf public
-
 # If a command fails then the deploy stops
 set -e
 
