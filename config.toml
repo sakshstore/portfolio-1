@@ -6,3 +6,18 @@ theme = "hugo-uilite"
 googleAnalytics = "UA-146100096-1"
 [params]
     enableProjects = false
+
+[[params.links]]
+    type = "image/png"
+    href = "images/adventure.png"
+    rel = "icon"
+
+[[params.links]]
+    type = "text/css"
+    href = "css/fontawesome/css/all.min.css"
+    rel = "stylesheet"
+
+[[params.links]]
+    type = "text/css"
+    href = "css/new_styles.css"
+    rel = "stylesheet"
