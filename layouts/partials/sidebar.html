@@ -13,6 +13,12 @@
 
     <div class="social my-4">
 
+      {{ range $key, $value := $socialsvg }}
+        <a target="_blank" href="{{ $value }}">
+          <img class="sidebar-svg" src="{{ $key }}"/>
+        </a>
+      {{ end }}
+
       {{ range $key, $value := $social }}
         <a target="_blank" href="{{ $value }}" rel="me">
           <i class="fab fa-{{ $key }}"></i>
@@ -22,12 +28,6 @@
       {{ range $key, $value := $socialfas }}
         <a target="_blank" href="{{ $value }}">
           <i class="fas fa-{{ $key }}"></i>
-        </a>
-      {{ end }}
-
-      {{ range $key, $value := $socialsvg }}
-        <a target="_blank" href="{{ $value }}">
-          <img class="sidebar-svg" src="{{ $key }}"/>
         </a>
       {{ end }}
 
