@@ -23,12 +23,10 @@
 	<!-- Including google fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:800" rel="stylesheet">
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.css">
-	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/new_styles.css">
-	<!-- Font awesome -->
-	<link rel="preconnect" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.1/css/all.css">
 
-	<!-- Fav Icon -->
-	<link rel="icon" type="image/png" href="{{ .Site.BaseURL }}images/adventure.png"/>
+	{{ range  .Site.Params.links -}}
+	<link rel="{{ .rel }}" type="{{ .type }}" href="{{ .href | relURL }}">
+	{{ end -}}
 
 	<!-- Meta tags -->
 	<meta name="author" content="{{ $config.author }}">
