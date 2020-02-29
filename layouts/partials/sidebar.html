@@ -15,7 +15,9 @@
 
       {{ range $key, $value := $socialsvg }}
         <a target="_blank" href="{{ $value }}">
-          <img class="sidebar-svg" src="{{ $key }}"/>
+          <i class="fab">
+            <img class="sidebar-svg" src="{{ $key }}"/>
+          </i>
         </a>
       {{ end }}
 
