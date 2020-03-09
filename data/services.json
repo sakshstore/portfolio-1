@@ -7,14 +7,19 @@
 			"description" : "I'll help your business get a web presence or an online business solution."
 		},
 		{
+			"icon" : "chalkboard-teacher",
+			"title" : "Consultation",
+			"description" : "Assisting your business figure out technology solutions for your technical problems."
+		},
+		{
 			"icon" : "mobile-alt",
 			"title" : "App Development",
 			"description" : "I'll help get your business solution on a mobile platform."
 		},
 		{
-			"icon" : "chalkboard-teacher",
-			"title" : "Consultation",
-			"description" : "Assisting your business figure out technology solutions for your technical problems."
+			"icon" : "pencil-alt",
+			"title" : "Technical Writing",
+			"description" : "I'll help you produce technical documentation and posts for your blog."
 		}
 	]
 }
