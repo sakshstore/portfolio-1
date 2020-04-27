@@ -2,6 +2,14 @@
 	"title" : "Projects",
 	"projects" : [
 		{
+			"icon": "file-alt",
+			"title": "Doc",
+			"language": "Go",
+			"platform": "terminal",
+			"description": "A Go CLI app that generates a template for a technical design document and uploads it to Google Docs.",
+			"link": "https://github.com/zaracooper/doc"
+		},
+		{
 			"icon" : "utensils",
 			"title" : "Recipe Puppy Go API Client",
 			"language": "Go",

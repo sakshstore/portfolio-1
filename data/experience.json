@@ -2,10 +2,11 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "April 2018 - Present ",
-			"company" : "Independent Web Developer and Consultant",
+			"timeperiod" : "April 2017 - Present ",
+			"role" : "Web Developer and Consultant",
+			"company": "Zara Cooper Consulting",
 			"website": "https://zaracooper.github.io",
-			"description" : "I'm an independent developer."
+			"description" : "I'm run a web design and consulting business."
 		}
 	]
 }
