@@ -1,0 +1,45 @@
+{
+	"title" : "Articles",
+	"articles" : [
+		{
+			"icon": "fab fa-dev",
+			"title": "Create your developer portfolio using Hugo & Github Pages",
+			"language": "Hugo",
+			"description": "A tutorial on how to create a developer portfolio using the Hugo Static Site Generation Tool and Github User Pages.",
+			"link": "https://dev.to/zaracooper/create-your-developer-portfolio-using-hugo-and-github-pages-35en",
+			"publication": "Dev.to"
+		},
+		{
+			"icon" : "fab fa-dev",
+			"title" : "18 Essential Go Module tidbits for a newbie",
+			"language": "Go",
+			"description" : "An in-depth and simple walkthrough of Go Modules in 18 tidbits tailored for beginners.",
+			"link": "https://dev.to/zaracooper/18-essential-go-module-tidbits-for-a-newbie-4455",
+			"publication": "Dev.to"
+		},
+		{
+			"icon" : "fab fa-dev",
+			"title" : "How to easily upgrade, downgrade, and migrate Go modules",
+			"language": "Go",
+			"description" : "A tutorial on how to create a developer portfolio using the Hugo Static Site Generation Tool and Github User Pages.",
+			"link": "https://dev.to/zaracooper/how-to-easily-upgrade-downgrade-and-migrate-go-modules-389f",
+			"publication": "Dev.to"
+		},
+		{
+			"svg": "images/smashing.svg",
+			"title" : "Create Your Free Developer Blog Using Hugo And Firebase",
+			"language": "Hugo",
+			"description" : "A guide on how to deploy a blog for free and with minimal effort using Hugo and Firebase.",
+			"link": "https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/",
+			"publication": "Smashing Magazine"
+		},
+		{
+			"icon" : "fab fa-stack-overflow",
+			"title" : "A practical guide to writing technical specs",
+			"language": "Design",
+			"description" : "A guide describing how to write a technical specification document.",
+			"link": "https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/",
+			"publication": "Stackoverflow Blog"
+		}
+	]
+}
