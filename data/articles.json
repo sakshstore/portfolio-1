@@ -40,6 +40,14 @@
 			"description" : "A guide describing how to write a technical specification document.",
 			"link": "https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/",
 			"publication": "Stackoverflow Blog"
+		},
+		{
+			"svg" : "images/bits.png",
+			"title" : "Deploy your Angular Project to Github Pages",
+			"language": "Angular",
+			"description" : "A tutorial illustrating how to deploy your Angular Project to Github Pages for free.",
+			"link": "https://blog.bitsrc.io/deploy-your-angular-project-to-github-pages-7cbacb96f35b",
+			"publication": "Bits and Pieces Blog"
 		}
 	]
 }
