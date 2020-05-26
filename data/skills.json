@@ -2,6 +2,22 @@
 	"title" : "Skills",
 	"skills" : [
 		{
+			"title": "Dabbled In",
+			"stack":[
+				{"tech": "Android", "icon": "fab fa-android"},
+				{"tech": "C#", "image": "images/csharp.png"},
+				{"tech": "Java", "icon": "fab fa-java"}
+			]
+		},
+		{
+			"title": "Want to Learn",
+			"stack":[
+				{"tech": "GraphQL", "image": "images/graphql.png"},
+				{"tech": "Rust", "image": "images/rust.png"},
+				{"tech": "VueJS", "icon": "fab fa-vuejs"}
+			]
+		},
+		{
 			"title": "Core Stack & Skills",
 			"stack":[
 				{ "tech": "Angular", "icon": "fab fa-angular"},
@@ -18,24 +34,6 @@
 				{ "tech": "React Native" , "icon": "fab fa-react"},
 				{ "tech": "Redis", "image": "images/redis.jpg"},
 				{ "tech": "Technical Writing", "icon": "fas fa-pencil-alt" }
-			]
-		},
-		{
-			"title": "Dabbled In Tech",
-			"stack":[
-				{"tech": "Android", "icon": "fab fa-android"},
-				{"tech": "C#", "image": "images/csharp.png"},
-				{"tech": "Java", "icon": "fab fa-java"},
-				{"tech": "", "icon": ""}
-			]
-		},
-		{
-			"title": "Want to Learn",
-			"stack":[
-				{"tech": "GraphQL", "image": "images/graphql.png"},
-				{"tech": "Rust", "image": "images/rust.png"},
-				{"tech": "VueJS", "icon": "fab fa-vuejs"},
-				{"tech": "", "icon": ""}
 			]
 		}
 	]
