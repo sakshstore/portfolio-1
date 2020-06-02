@@ -2,12 +2,44 @@
 	"title" : "Articles",
 	"articles" : [
 		{
+			"svg": "images/smashing.svg",
+			"title" : "How To Create Better Angular Templates With Pug",
+			"language": "Angular",
+			"description" : "A walkthrough of Pug and how to use it in your Angular project.",
+			"link": "https://www.smashingmagazine.com/2020/05/angular-templates-pug/",
+			"publication": "Smashing Magazine"
+		},
+		{
+			"svg" : "images/bits.png",
+			"title" : "Deploy your Angular Project to Github Pages",
+			"language": "Angular",
+			"description" : "A tutorial illustrating how to deploy your Angular Project to Github Pages for free.",
+			"link": "https://blog.bitsrc.io/deploy-your-angular-project-to-github-pages-7cbacb96f35b",
+			"publication": "Bits and Pieces Blog"
+		},
+		{
+			"svg": "images/smashing.svg",
+			"title" : "Create Your Free Developer Blog Using Hugo And Firebase",
+			"language": "Hugo",
+			"description" : "A guide on how to deploy a blog for free and with minimal effort using Hugo and Firebase.",
+			"link": "https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/",
+			"publication": "Smashing Magazine"
+		},
+		{
 			"icon": "fab fa-dev",
 			"title": "Create your developer portfolio using Hugo & Github Pages",
 			"language": "Hugo",
 			"description": "A tutorial on how to create a developer portfolio using the Hugo Static Site Generation Tool and Github User Pages.",
 			"link": "https://dev.to/zaracooper/create-your-developer-portfolio-using-hugo-and-github-pages-35en",
 			"publication": "Dev.to"
+		},
+		{
+			"icon" : "fab fa-stack-overflow",
+			"title" : "A practical guide to writing technical specs",
+			"language": "Design",
+			"description" : "A guide describing how to write a technical specification document.",
+			"link": "https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/",
+			"publication": "Stackoverflow Blog"
 		},
 		{
 			"icon" : "fab fa-dev",
@@ -24,30 +56,6 @@
 			"description" : "A tutorial on how to create a developer portfolio using the Hugo Static Site Generation Tool and Github User Pages.",
 			"link": "https://dev.to/zaracooper/how-to-easily-upgrade-downgrade-and-migrate-go-modules-389f",
 			"publication": "Dev.to"
-		},
-		{
-			"svg": "images/smashing.svg",
-			"title" : "Create Your Free Developer Blog Using Hugo And Firebase",
-			"language": "Hugo",
-			"description" : "A guide on how to deploy a blog for free and with minimal effort using Hugo and Firebase.",
-			"link": "https://www.smashingmagazine.com/2020/04/free-developer-blog-hugo-firebase/",
-			"publication": "Smashing Magazine"
-		},
-		{
-			"icon" : "fab fa-stack-overflow",
-			"title" : "A practical guide to writing technical specs",
-			"language": "Design",
-			"description" : "A guide describing how to write a technical specification document.",
-			"link": "https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/",
-			"publication": "Stackoverflow Blog"
-		},
-		{
-			"svg" : "images/bits.png",
-			"title" : "Deploy your Angular Project to Github Pages",
-			"language": "Angular",
-			"description" : "A tutorial illustrating how to deploy your Angular Project to Github Pages for free.",
-			"link": "https://blog.bitsrc.io/deploy-your-angular-project-to-github-pages-7cbacb96f35b",
-			"publication": "Bits and Pieces Blog"
 		}
 	]
 }
